@@ -1,0 +1,43 @@
+wordpress
+user: kira123
+
+
+
+
+
+top bar remove
+
+add pages
+menus>create new menus>set to main add pages
+
+header>menu
+
+header>
+
+disable topbar
+
+typography
+
+homepage setting
+
+home page>content layout
+
+disable the title
+
+add section play with it 
+
+choose template.
+
+or dl @tyler.com
+
+customize template
+
+edit section
+
+make it mobile friendly
+
+background fallback
+
+footer 
+theme panel>my library
+
